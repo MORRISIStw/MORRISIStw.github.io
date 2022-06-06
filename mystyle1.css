@@ -1,0 +1,28 @@
+.ab{
+    background-color: bisque;
+    color:darkslategrey;
+    padding:20px;
+}
+
+.ab:hover{
+    background-color:sandybrown;
+}
+
+body{
+    background: -webkit-linear-gradient(-5deg,rgb(255, 255, 255),rgb(109, 161, 239));
+}
+
+img{
+    width: 200px;
+    height: 100px;
+    opacity: 0.5;
+}
+img:hover{
+    width: 300px;
+    height: 150px;
+    opacity: 1.2;
+}
+::selection{
+    color:red;
+    background:white;
+}
