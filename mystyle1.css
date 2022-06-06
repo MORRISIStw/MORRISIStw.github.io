@@ -26,3 +26,8 @@ img:hover{
     color:red;
     background:white;
 }
+.beauty{
+    border-radius:50%;
+    max-width:100%;
+    height: auto;
+}
